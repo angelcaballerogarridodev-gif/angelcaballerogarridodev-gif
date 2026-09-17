@@ -4,8 +4,8 @@
 
 <br>
 
-* 🔭 Actualmente soy estudiante en el instituto I.E.S Padre Suárez.
-* 🌱 Cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM).
+* 🔭 Actualmente estudio Ciberseguridad en el I.E.S Zaidín Vergeles.
+* 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM) por el I.E.S Padre Suárez.
 * 🏠 Vivo en Granada, España.
 * 👓 Titulado en Bachillerato Tecnológico.
 * 🎈 Mi pasión es la resolución de problemas complejos vía software.
